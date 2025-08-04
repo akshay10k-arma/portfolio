@@ -1,8 +1,7 @@
 # Data Engineering Portfolio
 
 ## About Me
--Senior Data Engineer with expertise in building, managing and monitoring end to end scalable data solutions using modern technologies. 
--Cloud and on premise data solutions.
+Senior Data Engineer with expertise in building, managing and monitoring end to end scalable data solutions using modern technologies. Cloud and on premise data solutions.
 
 ### 🛠 Technical Skills
 - **Big Data**: Apache Spark, PySpark, Apache Iceberg , sparkSQL , pandas , numpy, Apache Nifi, Apache Airflow
